@@ -1,0 +1,76 @@
+X:2
+T:Lakshan Geet in Rag Bageshree in Jhaptal
+C:Pandit Vishnu Narayan Bhatkhande
+S:Kramit Pustak Malika, Vol. 3, p. 447
+W:Kan swaras are indicated within {}.
+W:Meend is indicated using by enclosing swaras within ().
+W:How to sing glides (meend) must be learnt from a competent guru.
+M:4/4
+L:1/4
+R:Jhaptal 10 Beats divided as 2+3+2+3
+Q:1/4 = 110
+K:C
+N:ABC Notation by R S Ananda Murthy (rsamurti@gmail.com)
+%%MIDI program 20
+%Sthayi
+P:Sthayi
+|:"X"{C}F {F}_E | "2"D C2 | "O"{D,}_B, A, | "3"C C2 :||
+w:{S}m g R S- {D,}n, D, S S-
+w:Ga a vo ba- ge e sa ri-
+%
+| "X"{_B,}C C | "2"{C}F F F | "O"F F | "3"{F}G {F}_E2 |
+w:{n,}S S {S}m m m m m {m}P {m}g-
+w:Mru du la ga ta su ra ga ni-
+%
+|"X"{_E}F _E | "2"F _B A | "O"c c | "3"d c c |
+w:{g}m g m n D S' S' R' S' S'
+w:Kha ra ha a ra pri ya tha a tha
+%
+|"X"{D}c2 | {_B}A _B A | F F | {F}G {F}_E2 ||
+w:{D}S'- {n}D n D m m {m}P {m}g-
+w:Ti- va ra ka ra ta dha ri-
+%
+P:Sthayi (only 1st line)
+|:"X"{C}F {F}_E | "2"D C2 | "O"{D,}_B, A, | "3"C C2 :||
+w:{S}m g R S- {D,}n, D, S S-
+w:Ga a vo ba- ge e sa ri-
+%Antara
+P:Antara
+| "X"{F}_E F | "2"{A}_B A _B | "O"c2 | "3"c2 c |
+w:{m}g m {D}n D n S'- S'- S
+w:Ma a dhya ma ka re- ja- na
+%
+| {c}_B c | d2 c | {c}_B c | (_B2 A) |
+w:{S'}n S' R'- S' {S'}n S' (n- D)
+w:Sa ma va- di sa a ma- na
+| {_B}A2 | _B _B {G}A | {F}_E2 | D2 C |
+w:{n}D- n n {P}D {m}g- D- S
+w:Pan- cha ma ka re- a- lpa
+%
+| D C | _B, A, _B, | C2 | F F _E |
+w:R S n, D, n, S- m m g
+%
+| F A | _B A F | G _E | D D C |
+w:m D n D m P g R R S
+P:Sthayi (only 1st line)
+|: "X"{C}F {F}_E | "2"D C2 | "O"{D,}_B, A, | "3"C C2 :||
+w:{S}m g R S- {D,}n, D, S S-
+w:Ga a vo ba- ge e sa ri-
+W:-----
+W:Lyrics
+W:--------
+W:Sthyi
+W:--------
+W:Gaavo baagesari (Sing bageshree)
+W:Mrudu lagat sur ga ni (It has komal Ga and Ni)
+W:Kharaharapriya thaat (It belongs to Kharaharapriya thaat -- Kafi scale)
+W:Tivar karat dha ri (It has tivra Dha and Ri)
+W:---------
+W:Antara
+W:---------
+W:Madhyama kare jaan (Its life is Ma - vaadi is Ma)
+W:Samavadi saa maan (Its samvaadi is Sa)
+W:Panchama kare alpa (The usage of Pa is very little)
+W:Ri Sa ni, Dha, ni, Sa ma ga ga (Catch phrase)
+W:Ma Dha ni Dha, ma Pa ga Ri Ri Sa (Catch phrase)
+
